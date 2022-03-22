@@ -1,19 +1,19 @@
 {
   "name": "ratingstar",
   "version": "1.0.0",
-  "description": "library to simply as rating stars in you project",
+  "description": "library to simply add rating stars in you project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamyamar/easyStar.js.git"
+    "url": "git+https://github.com/iamyamar/ratingStar.git"
   },
   "author": "Yash kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamyamar/easyStar.js/issues"
+    "url": "https://github.com/iamyamar/ratingStar.git/issues"
   },
-  "homepage": "https://github.com/iamyamar/easyStar.js#readme"
+  "homepage": "https://github.com/iamyamar/ratingStar.git#readme"
 }
