@@ -100,3 +100,4 @@ function makestar() {
 }
 
 export default makestar
+// module.exports.makestar = makestar
