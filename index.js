@@ -1,4 +1,4 @@
-function ratingStar() {
+function makestar() {
   const star = document.querySelector(".star")
 
   if (star.hasAttribute("star-rating") && !star.hasAttribute("set-default")) {
@@ -99,4 +99,4 @@ function ratingStar() {
   }
 }
 
-module.exports.ratingStar = ratingStar
+module.exports.makestar = makestar

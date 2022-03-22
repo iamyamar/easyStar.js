@@ -1,5 +1,5 @@
 {
-  "name": "ratingstar",
+  "name": "makestar",
   "version": "1.0.0",
   "description": "library to simply add rating stars in you project",
   "main": "index.js",
