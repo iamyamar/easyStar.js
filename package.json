@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamyamar/ratingStar.git"
+    "url": "git+https://github.com/iamyamar/makestar.git"
   },
   "author": "Yash kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamyamar/ratingStar.git/issues"
+    "url": "https://github.com/iamyamar/makestar.git/issues"
   },
-  "homepage": "https://github.com/iamyamar/ratingStar.git#readme"
+  "homepage": "https://github.com/iamyamar/makestar.git#readme"
 }

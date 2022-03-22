@@ -1,4 +1,4 @@
-# ratingStar
+# makestar
 
 ratingStar is library to integrate Star Rating System in you JS projects
 with just 2 steps.
@@ -8,5 +8,5 @@ with just 2 steps.
 Install ratingStar with npm
 
 ```bash
-  npm install ratingStar
+  npm install makestar
 ```
