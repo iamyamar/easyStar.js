@@ -99,4 +99,4 @@ function makestar() {
   }
 }
 
-module.exports.makestar = makestar
+export default makestar

@@ -2,9 +2,10 @@
   "name": "makestar",
   "version": "1.1.1",
   "description": "library to simply add rating stars in you project",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/iamyamar/makestar.git/issues"
   },
-  "homepage": "https://github.com/iamyamar/makestar.git#readme"
+  "homepage": "https://github.com/iamyamar/makestar.git#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
