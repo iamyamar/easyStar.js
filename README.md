@@ -14,7 +14,8 @@ Add makestar as CDN and initialize it
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/makestar@1.1.6/src/index.min.js"></script>
-<script>makescript()</script>```
+<script>makescript()</script>
+```
 
  
 ### Package
@@ -24,7 +25,8 @@ Install `makestar` package:
 Add styles in `<head>`:
 
 ```html
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous"  referrerpolicy="no-referrer"/>```
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous"  referrerpolicy="no-referrer"/>
+```
 
 Import makestar as module and initialize it:
 ```html
