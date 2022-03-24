@@ -1,6 +1,6 @@
 {
   "name": "makestar",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "library to simply add rating stars in you project",
   "main": "dist/index.js",
   "scripts": {
